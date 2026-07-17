@@ -1,0 +1,27 @@
+.receipt {
+
+  margin-top: 20px;
+
+}
+
+
+
+.receipt-box {
+
+  background: #f8fafc;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  border-left: 5px solid #1d4ed8;
+
+}
+
+
+
+.receipt-box p {
+
+  margin: 10px 0;
+
+}
