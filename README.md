@@ -43,11 +43,11 @@ Illinois Pass aims to make expense organization simple, reliable, and accessible
 
 ## Author
 
-**Name:** Alex Morgan
+**Name:** moana
 
-**Email:** alex.morgan@illinoispass.dev
+**Email:** moana75sin@outlook.com
 
-**Website:** Illinois Pass
+**Website:** [Illinois Pass](https://www.ipass.com.co)
 
 **Bio:**
 
